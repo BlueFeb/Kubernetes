@@ -9,7 +9,9 @@ Install Kubernetes in Ubuntu, VirtualBox. (Following https://cla9.tistory.com/91
 6. Install ingress-nginx 
 
 1.1. Install VBox https://www.virtualbox.org/
+
 1.2. Download Ubuntu https://ubuntu.com/#download
+
 1.3. Setup Master Node
      RAM > 2 GB
      HDD > 20 GB
@@ -17,4 +19,5 @@ Install Kubernetes in Ubuntu, VirtualBox. (Following https://cla9.tistory.com/91
      Storage -> Controller IDE -> change to Ubuntu Image
      Network -> Adapter 1 -> change to Bridge on the Adapter
      Network -> Adapter 2 -> change to Host only adapter
+     
 1.4. Install Ubuntu on the Master node
